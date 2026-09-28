@@ -1,0 +1,6 @@
+{
+  "name": "ATELIER IX — Haute Editorial Streetwear & Archival Fashion",
+  "description": "Architectural garments engineered for tactile permanence. Curated drops, brutalist silhouettes, and archival collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
